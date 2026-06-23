@@ -1,0 +1,27 @@
+body {
+  display: fill;
+  background-color: rgb(128, 29, 29);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: aliceblue;
+}
+#app {
+  display: grid;
+  background-color: rgb(77, 5, 5);
+  padding: 0.5rem;
+  border-radius: 8px;
+  margin: 0.5rem;
+}
+form {
+  display: fill;
+  background-color: rgb(77, 5, 5);
+  padding: 0.5rem;
+  border-radius: 8px;
+  margin: 0.5rem;
+}
+button {
+  display: fill;
+  background-color: rgb(128, 29, 29);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: aliceblue;
+  border-radius: 8px;
+}
